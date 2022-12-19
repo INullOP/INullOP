@@ -14,8 +14,8 @@ U = \frac{3}{2}\nu RT \\
 Q = cm\Delta T\\
 E_r = k\frac{q}{r^{2}})
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
+1. 14 <br>
+2. 7/13 <br>
+3. 12 <br>
 
-1. 14
-2. 7/13
-3. 12
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
